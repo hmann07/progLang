@@ -1,0 +1,5 @@
+var Network = {}
+
+new Neuron = {
+  activationFunction:function(){}
+}

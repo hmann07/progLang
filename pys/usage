@@ -1,0 +1,1 @@
+>python stripes.py -c mrjob.conf -r emr --output-dir s3://cwdatahm/output/for s3://cwdatahm/input

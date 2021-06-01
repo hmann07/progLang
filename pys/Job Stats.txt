@@ -1,0 +1,4 @@
+The jobs took roughly 2 minutes each. Once I managed to get SSH and pooling working on Windows. 
+This stopped lags for s3 log transfers and the start time for each machine.
+I used a 4 node cluster. 
+I let the system decide how these were used in terms of nubmer of mappers and reducers.

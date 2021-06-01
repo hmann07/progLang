@@ -1,0 +1,3 @@
+For the complete pagerank jobs each task took about 2 minutes. 
+However the time for each iteration was double this as a result of redistributing the missimg mass.
+I started with 4 node, then moved up to 12. the speedup didn't appear worth the extra cost.

@@ -1,0 +1,13 @@
+The stripes and pairs jobs both took roughly 2 minutes each at 148 seconds and 128 seconds respectivly.
+This was once I managed to get SSH and pooling working on Windows. 
+This stopped lags for s3 log transfers and the start time for each machine.
+I used a 4 node cluster. 
+I let the system decide how these were used in terms of nubmer of mappers and reducers.
+Pairs:
+Launched map tasks=10
+Launched reduce tasks=6
+
+Stripes:
+
+Launched map tasks=8
+Launched reduce tasks=6

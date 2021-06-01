@@ -1,0 +1,3 @@
+1	{"count": 2.0, "outlinks": [2, 4]}
+2	{"count": 2.0, "outlinks": [3, 5]}
+3	{"count": 1.0, "outlinks": [4]}
